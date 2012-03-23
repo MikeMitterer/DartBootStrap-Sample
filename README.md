@@ -8,7 +8,10 @@ If you ask yourself what the f*** is Dart - then click [[dartlang]](http://www.d
 more informations about this great new language from Google.
 
 Right now (03 23 1212) this sample throws an error (<strong>Uncaught TypeError: Cannot call method 'apply' of undefined</strong>)
-in Chrome or Firefox but works in Chromium.
+in Chrome or Firefox but works in Chromium. 
+You can see the bug if you click on the "Launch demo modal" button. - Nothing happens, instead the error is thrown.
 
-Bug is already filed in the [issue-tracker](http://code.google.com/p/dart/issues/detail?id=2265&q=Uncaught%20TypeError%3A%20Cannot%20call%20method%20'apply'%20of%20undefined&colspec=ID%20Type%20Status%20Priority%20Area%20Owner%20Summary)
+Bug is already filed at [issue-tracker](http://code.google.com/p/dart/issues/detail?id=2265&q=Uncaught%20TypeError%3A%20Cannot%20call%20method%20'apply'%20of%20undefined&colspec=ID%20Type%20Status%20Priority%20Area%20Owner%20Summary)
+
+If this sample is helpfull for you - [(Circle)](gplus.mikemitterer.at) me.
 
