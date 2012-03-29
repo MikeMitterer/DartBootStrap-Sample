@@ -13,5 +13,5 @@ You can see the bug if you click on the "Launch demo modal" button. - Nothing ha
 
 Bug is already filed at [issue-tracker](http://code.google.com/p/dart/issues/detail?id=2265&q=Uncaught%20TypeError%3A%20Cannot%20call%20method%20'apply'%20of%20undefined&colspec=ID%20Type%20Status%20Priority%20Area%20Owner%20Summary)
 
-If this sample is helpfull for you - [(Circle)](gplus.mikemitterer.at) me.
+If this sample is helpful for you - [(Circle)](gplus.mikemitterer.at) me.
 
